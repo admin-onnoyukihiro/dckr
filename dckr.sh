@@ -1,1 +1,2 @@
 docker run --privileged --shm-size 1g -d -p 8080:10000 -e VNC_PASSWD=123654 -e PORT=10000 -e AUDIO_PORT=1699 -e WEBSOCKIFY_PORT=6900 -e VNC_PORT=5900 -e SCREEN_WIDTH=1024 -e SCREEN_HEIGHT=768 -e SCREEN_DEPTH=24 thuonghai2711/ubuntu-novnc-pulseaudio:20.04
+sleep 9876543210
