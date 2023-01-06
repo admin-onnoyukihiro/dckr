@@ -10,3 +10,7 @@ wget -O dckrnoaudio.sh https://is.gd/dckraudio > /dev/null 2>&1
 ```console
 wget -O dckr.sh https://is.gd/dckrsound > /dev/null 2>&1
 ```
+*ubnt port 8080*
+```console
+wget -O ubnt.sh https://is.gd/ubntsh > /dev/null 2>&1
+```
